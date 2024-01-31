@@ -1,5 +1,5 @@
 #!/bin/bash
-export TOKEN_SECRET="oKIoT4QqSeGDzRzvpGgoVQ==:PQlCs5fdP83ldpKORM9dpiy1SmZUarNi"
+export TOKEN_SECRET="ilS/VfLZQvSig/EP9y8RtA==:QHELz6le7zg4GcRVHCpaJSuyjjSSH2dR"
 
 docker run -d  --name "bridge_basic" \
   -e AGENT_NAME="yuvy_bridge_linux_agent" \
